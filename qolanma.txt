@@ -1,0 +1,7 @@
+nav
+header
+main
+footer
+
+
+Kod 02.24.2024 yil Rayimjonov Eldorbek tomonidan yozildi
